@@ -28,7 +28,7 @@
 
 		<div class="wrapper">
 			<span class="picture-wrapper">
-				<img class="picture" src="./assets/img.jpg" />
+				<img class="picture" src="./assets/img2.jpg" />
 			</span>
 
 			<h1>{{title}}</h1>
