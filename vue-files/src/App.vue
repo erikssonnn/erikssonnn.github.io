@@ -28,7 +28,7 @@
 
 		<div class="wrapper">
 			<span class="picture-wrapper">
-				<img class="picture" src="./assets/img2.jpg" />
+				<img class="picture" src="./assets/img.jpg" />
 			</span>
 
 			<h1>{{title}}</h1>
@@ -40,7 +40,7 @@
 				<img class="link-img" @click="openLink('https://erikssonnn.itch.io/')" src="./assets/itch.png">
 				<img class="link-img" @click="openLink('https://carl_erikssonn.artstation.com/')" src="./assets/artstation.png">
 				<img class="link-img" @click="openLink('https://github.com/erikssonnn')" src="./assets/github.png">
-				<img class="link-img" @click="openLink('https://twitter.com/erikssonnn_')" src="./assets/twitter.png">
+				<!-- <img class="link-img" @click="openLink('https://twitter.com/erikssonnn_')" src="./assets/twitter.png"> -->
 			</span>
 		</div>
 	</div>
